@@ -1,4 +1,4 @@
-![maxresdefault](https://github.com/user-attachments/assets/523074c6-1d44-48ce-b922-727eae845cd3)## APB_PROTOCOL
+## APB_PROTOCOL
 The APB protocol (Advanced Peripheral Bus) is a part of the AMBA (Advanced Microcontroller Bus Architecture) family developed by ARM. It is designed for simple, low-power peripheral communication and provides a low-bandwidth, low-latency connection between peripherals and the system bus. APB is often used in conjunction with higher-performance buses such as AHB (Advanced High-Performance Bus) or AXI (Advanced eXtensible Interface) for communicating with low-speed peripherals like timers, UARTs, or GPIOs.
 
 #### APB Features:
